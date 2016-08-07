@@ -8,17 +8,17 @@ Abaixo seguem alguns links para estudos sobre algoritmos, discussões a respeito
 http://www.geeksforgeeks.org/
 
 ### Links com exercícios para prática
-https://www.urionlinejudge.com.br/judge/en/login
-https://uva.onlinejudge.org/
-http://www.programming-challenges.com/pg.php?page=index
-https://www.codingame.com/
-https://www.hackerrank.com/domains/ai/introduction
-https://www.topcoder.com/
+- [URI Online](https://www.urionlinejudge.com.br/judge/en/login)
+- [UVA](https://uva.onlinejudge.org/)
+- [Programming Challenges](http://www.programming-challenges.com/pg.php?page=index)
+- [Codingame](https://www.codingame.com/)
+- [Hackerhank](https://www.hackerrank.com/domains/ai/introduction)
+- [Topcoder](https://www.topcoder.com/)
+- [Open Kattis](https://open.kattis.com/)
 
 ### Esse é mais focado em matemática
-https://projecteuler.net/
+- [Project Euler](https://projecteuler.net/)
 
 ### Grandes competições do Facebook e Google
-https://www.facebook.com/hackercup/past_rounds/742632349177460/
-https://code.google.com/codejam
-
+- [Facebook Hackercup](https://www.facebook.com/hackercup/past_rounds/742632349177460/)
+- [Google Codejam](https://code.google.com/codejam)
