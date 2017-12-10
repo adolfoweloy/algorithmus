@@ -22,3 +22,7 @@ http://www.geeksforgeeks.org/
 ### Grandes competições do Facebook e Google
 - [Facebook Hackercup](https://www.facebook.com/hackercup/past_rounds/742632349177460/)
 - [Google Codejam](https://code.google.com/codejam)
+
+### Link com vários problemas práticos + soluções
+
+- [500 Data Structures and Algorithms practice problems and their solutions](https://medium.com/@kingrayhan/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0)
