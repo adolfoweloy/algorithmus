@@ -15,6 +15,7 @@ http://www.geeksforgeeks.org/
 - [Hackerhank](https://www.hackerrank.com/domains/ai/introduction)
 - [Topcoder](https://www.topcoder.com/)
 - [Open Kattis](https://open.kattis.com/)
+- [Codewars](https://www.codewars.com)
 
 ### Esse é mais focado em matemática
 - [Project Euler](https://projecteuler.net/)
