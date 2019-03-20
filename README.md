@@ -27,3 +27,7 @@ http://www.geeksforgeeks.org/
 ### Link com vários problemas práticos + soluções
 
 - [500 Data Structures and Algorithms practice problems and their solutions](https://medium.com/@kingrayhan/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0)
+
+### Ideias de side projects
+Criando side projects, mesmo que sejam projetinhos que não serão usados na prática, podem ser úteis para testar novas tecnologias, frameworks, bibliotecas ou linguagens de programação. Essa lista de sites trazem alguns exemplos de projetos para quem estiver sem ideia do que criar:
+- [Sample App Ideas](https://flaviocopes.com/sample-app-ideas/)
