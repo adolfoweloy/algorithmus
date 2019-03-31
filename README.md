@@ -31,3 +31,7 @@ http://www.geeksforgeeks.org/
 ### Ideias de side projects
 Criando side projects, mesmo que sejam projetinhos que não serão usados na prática, podem ser úteis para testar novas tecnologias, frameworks, bibliotecas ou linguagens de programação. Essa lista de sites trazem alguns exemplos de projetos para quem estiver sem ideia do que criar:
 - [Sample App Ideas](https://flaviocopes.com/sample-app-ideas/)
+
+### Dojos & code katas
+- [Kata Catalog](http://codingdojo.org/KataCatalogue/)
+- [CodeKata](http://codekata.com/)
